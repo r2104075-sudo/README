@@ -66,4 +66,4 @@ To become a skilled software developer capable of building useful and innovative
 
 ## 📊 GitHub Stats
 
-![Deepak R's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=radical)
+![Deepak R's GitHub stats](https://github-readme-stats.vercel.app/api?username=r2104075-sudo\&show_icons=true\&theme=radical)
